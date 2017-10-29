@@ -1,14 +1,14 @@
 {
     "type": "update",
-    "eventId": 2021210239,
+    "eventId": 2030807826,
     "socket_sequence": 0,
     "events": [
         {
             "type": "change",
             "reason": "initial",
             "price": "0.01",
-            "delta": "95234.91",
-            "remaining": "95234.91",
+            "delta": "95234.9",
+            "remaining": "95234.9",
             "side": "bid"
         },
         {
@@ -71,8 +71,8 @@
             "type": "change",
             "reason": "initial",
             "price": "0.10",
-            "delta": "112586.399996",
-            "remaining": "112586.399996",
+            "delta": "110586.399996",
+            "remaining": "110586.399996",
             "side": "bid"
         },
         {
@@ -87,8 +87,8 @@
             "type": "change",
             "reason": "initial",
             "price": "0.12",
-            "delta": "62215.666666",
-            "remaining": "62215.666666",
+            "delta": "12215.666666",
+            "remaining": "12215.666666",
             "side": "bid"
         },
         {
@@ -135,8 +135,8 @@
             "type": "change",
             "reason": "initial",
             "price": "0.20",
-            "delta": "54083.149999",
-            "remaining": "54083.149999",
+            "delta": "54095.149999",
+            "remaining": "54095.149999",
             "side": "bid"
         },
         {
@@ -159,8 +159,8 @@
             "type": "change",
             "reason": "initial",
             "price": "0.25",
-            "delta": "33621.08",
-            "remaining": "33621.08",
+            "delta": "33619.08",
+            "remaining": "33619.08",
             "side": "bid"
         },
         {
@@ -231,8 +231,8 @@
             "type": "change",
             "reason": "initial",
             "price": "0.50",
-            "delta": "25204.04",
-            "remaining": "25204.04",
+            "delta": "25129.04",
+            "remaining": "25129.04",
             "side": "bid"
         },
         {
@@ -343,8 +343,8 @@
             "type": "change",
             "reason": "initial",
             "price": "1.00",
-            "delta": "84265.091",
-            "remaining": "84265.091",
+            "delta": "83661.091",
+            "remaining": "83661.091",
             "side": "bid"
         },
         {
@@ -727,8 +727,8 @@
             "type": "change",
             "reason": "initial",
             "price": "5.00",
-            "delta": "3523.82",
-            "remaining": "3523.82",
+            "delta": "3423.82",
+            "remaining": "3423.82",
             "side": "bid"
         },
         {
@@ -839,8 +839,8 @@
             "type": "change",
             "reason": "initial",
             "price": "10.03",
-            "delta": "146.342",
-            "remaining": "146.342",
+            "delta": "27",
+            "remaining": "27",
             "side": "bid"
         },
         {
@@ -1161,14 +1161,6 @@
             "price": "19.90",
             "delta": "10.001",
             "remaining": "10.001",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "19.95",
-            "delta": "1",
-            "remaining": "1",
             "side": "bid"
         },
         {
@@ -3703,8 +3695,8 @@
             "type": "change",
             "reason": "initial",
             "price": "140.00",
-            "delta": "89.732496",
-            "remaining": "89.732496",
+            "delta": "86.169639",
+            "remaining": "86.169639",
             "side": "bid"
         },
         {
@@ -4009,14 +4001,6 @@
             "price": "147.87",
             "delta": "0.220385",
             "remaining": "0.220385",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "148.00",
-            "delta": "0.476239",
-            "remaining": "0.476239",
             "side": "bid"
         },
         {
@@ -5182,14 +5166,6 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "169.80",
-            "delta": "3.4",
-            "remaining": "3.4",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "169.82",
             "delta": "0.111",
             "remaining": "0.111",
@@ -5647,8 +5623,8 @@
             "type": "change",
             "reason": "initial",
             "price": "180.00",
-            "delta": "422.887768",
-            "remaining": "422.887768",
+            "delta": "419.332213",
+            "remaining": "419.332213",
             "side": "bid"
         },
         {
@@ -5689,6 +5665,14 @@
             "price": "180.50",
             "delta": "1.030748",
             "remaining": "1.030748",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "180.55",
+            "delta": "1",
+            "remaining": "1",
             "side": "bid"
         },
         {
@@ -6175,8 +6159,8 @@
             "type": "change",
             "reason": "initial",
             "price": "190.00",
-            "delta": "942.085295",
-            "remaining": "942.085295",
+            "delta": "935.197401",
+            "remaining": "935.197401",
             "side": "bid"
         },
         {
@@ -6399,8 +6383,8 @@
             "type": "change",
             "reason": "initial",
             "price": "195.00",
-            "delta": "268.027454",
-            "remaining": "268.027454",
+            "delta": "265.027454",
+            "remaining": "265.027454",
             "side": "bid"
         },
         {
@@ -6567,8 +6551,8 @@
             "type": "change",
             "reason": "initial",
             "price": "198.00",
-            "delta": "11.728937",
-            "remaining": "11.728937",
+            "delta": "12.728937",
+            "remaining": "12.728937",
             "side": "bid"
         },
         {
@@ -6609,14 +6593,6 @@
             "price": "198.85",
             "delta": "10",
             "remaining": "10",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "198.95",
-            "delta": "50",
-            "remaining": "50",
             "side": "bid"
         },
         {
@@ -6695,8 +6671,8 @@
             "type": "change",
             "reason": "initial",
             "price": "200.00",
-            "delta": "1743.969138",
-            "remaining": "1743.969138",
+            "delta": "1470.478138",
+            "remaining": "1470.478138",
             "side": "bid"
         },
         {
@@ -6887,8 +6863,8 @@
             "type": "change",
             "reason": "initial",
             "price": "202.00",
-            "delta": "51.796089",
-            "remaining": "51.796089",
+            "delta": "38.9",
+            "remaining": "38.9",
             "side": "bid"
         },
         {
@@ -7065,14 +7041,6 @@
             "price": "204.63",
             "delta": "0.0201",
             "remaining": "0.0201",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "204.78",
-            "delta": "29.319269",
-            "remaining": "29.319269",
             "side": "bid"
         },
         {
@@ -7351,8 +7319,8 @@
             "type": "change",
             "reason": "initial",
             "price": "210.00",
-            "delta": "859.44556",
-            "remaining": "859.44556",
+            "delta": "858.44556",
+            "remaining": "858.44556",
             "side": "bid"
         },
         {
@@ -7750,14 +7718,6 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "218.17",
-            "delta": "1",
-            "remaining": "1",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "218.18",
             "delta": "0.641672",
             "remaining": "0.641672",
@@ -7823,8 +7783,8 @@
             "type": "change",
             "reason": "initial",
             "price": "220.00",
-            "delta": "293.278827",
-            "remaining": "293.278827",
+            "delta": "277.415191",
+            "remaining": "277.415191",
             "side": "bid"
         },
         {
@@ -7846,7 +7806,7 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "220.30",
+            "price": "220.18",
             "delta": "1",
             "remaining": "1",
             "side": "bid"
@@ -7873,14 +7833,6 @@
             "price": "220.50",
             "delta": "120",
             "remaining": "120",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "220.57",
-            "delta": "1.130661",
-            "remaining": "1.130661",
             "side": "bid"
         },
         {
@@ -8111,8 +8063,8 @@
             "type": "change",
             "reason": "initial",
             "price": "225.00",
-            "delta": "291.249947",
-            "remaining": "291.249947",
+            "delta": "307.754392",
+            "remaining": "307.754392",
             "side": "bid"
         },
         {
@@ -8175,8 +8127,8 @@
             "type": "change",
             "reason": "initial",
             "price": "226.00",
-            "delta": "10.522698",
-            "remaining": "10.522698",
+            "delta": "5.522698",
+            "remaining": "5.522698",
             "side": "bid"
         },
         {
@@ -8249,6 +8201,14 @@
             "price": "228.12",
             "delta": "0.517",
             "remaining": "0.517",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "228.28",
+            "delta": "5.475731",
+            "remaining": "5.475731",
             "side": "bid"
         },
         {
@@ -8742,14 +8702,6 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "237.01",
-            "delta": "10",
-            "remaining": "10",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "237.11",
             "delta": "1.054362",
             "remaining": "1.054362",
@@ -8791,8 +8743,8 @@
             "type": "change",
             "reason": "initial",
             "price": "238.00",
-            "delta": "45.62605",
-            "remaining": "45.62605",
+            "delta": "0.5",
+            "remaining": "0.5",
             "side": "bid"
         },
         {
@@ -8847,8 +8799,8 @@
             "type": "change",
             "reason": "initial",
             "price": "240.00",
-            "delta": "387.508624",
-            "remaining": "387.508624",
+            "delta": "375.430458",
+            "remaining": "375.430458",
             "side": "bid"
         },
         {
@@ -9183,8 +9135,8 @@
             "type": "change",
             "reason": "initial",
             "price": "245.00",
-            "delta": "45.084114",
-            "remaining": "45.084114",
+            "delta": "42.084114",
+            "remaining": "42.084114",
             "side": "bid"
         },
         {
@@ -9241,6 +9193,14 @@
             "price": "247.00",
             "delta": "24",
             "remaining": "24",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "247.04",
+            "delta": "40",
+            "remaining": "40",
             "side": "bid"
         },
         {
@@ -9359,8 +9319,8 @@
             "type": "change",
             "reason": "initial",
             "price": "249.00",
-            "delta": "17.882239",
-            "remaining": "17.882239",
+            "delta": "113.882239",
+            "remaining": "113.882239",
             "side": "bid"
         },
         {
@@ -9393,6 +9353,14 @@
             "price": "249.31",
             "delta": "2",
             "remaining": "2",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "249.37",
+            "delta": "1",
+            "remaining": "1",
             "side": "bid"
         },
         {
@@ -9431,16 +9399,16 @@
             "type": "change",
             "reason": "initial",
             "price": "250.00",
-            "delta": "1970.961067",
-            "remaining": "1970.961067",
+            "delta": "2033.807347",
+            "remaining": "2033.807347",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "250.01",
-            "delta": "126.948521",
-            "remaining": "126.948521",
+            "delta": "47.350521",
+            "remaining": "47.350521",
             "side": "bid"
         },
         {
@@ -9575,8 +9543,8 @@
             "type": "change",
             "reason": "initial",
             "price": "251.00",
-            "delta": "321.751988",
-            "remaining": "321.751988",
+            "delta": "317.75159",
+            "remaining": "317.75159",
             "side": "bid"
         },
         {
@@ -9607,16 +9575,16 @@
             "type": "change",
             "reason": "initial",
             "price": "251.10",
-            "delta": "5.55",
-            "remaining": "5.55",
+            "delta": "30.55",
+            "remaining": "30.55",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "251.11",
-            "delta": "2.1",
-            "remaining": "2.1",
+            "delta": "5.1",
+            "remaining": "5.1",
             "side": "bid"
         },
         {
@@ -9679,8 +9647,8 @@
             "type": "change",
             "reason": "initial",
             "price": "252.00",
-            "delta": "185.8",
-            "remaining": "185.8",
+            "delta": "179.8",
+            "remaining": "179.8",
             "side": "bid"
         },
         {
@@ -9774,6 +9742,14 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "254.11",
+            "delta": "3",
+            "remaining": "3",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "254.14",
             "delta": "7.558668",
             "remaining": "7.558668",
@@ -9831,8 +9807,8 @@
             "type": "change",
             "reason": "initial",
             "price": "255.00",
-            "delta": "1672.455472",
-            "remaining": "1672.455472",
+            "delta": "1671.455472",
+            "remaining": "1671.455472",
             "side": "bid"
         },
         {
@@ -9855,8 +9831,8 @@
             "type": "change",
             "reason": "initial",
             "price": "255.20",
-            "delta": "0.517",
-            "remaining": "0.517",
+            "delta": "235.056733",
+            "remaining": "235.056733",
             "side": "bid"
         },
         {
@@ -9879,8 +9855,8 @@
             "type": "change",
             "reason": "initial",
             "price": "256.00",
-            "delta": "38.833575",
-            "remaining": "38.833575",
+            "delta": "37.833575",
+            "remaining": "37.833575",
             "side": "bid"
         },
         {
@@ -9935,8 +9911,16 @@
             "type": "change",
             "reason": "initial",
             "price": "257.00",
-            "delta": "3.918393",
-            "remaining": "3.918393",
+            "delta": "5.918393",
+            "remaining": "5.918393",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "257.11",
+            "delta": "3",
+            "remaining": "3",
             "side": "bid"
         },
         {
@@ -10007,8 +9991,8 @@
             "type": "change",
             "reason": "initial",
             "price": "259.00",
-            "delta": "12.4",
-            "remaining": "12.4",
+            "delta": "13.47722",
+            "remaining": "13.47722",
             "side": "bid"
         },
         {
@@ -10039,8 +10023,8 @@
             "type": "change",
             "reason": "initial",
             "price": "260.00",
-            "delta": "702.228376",
-            "remaining": "702.228376",
+            "delta": "705.382607",
+            "remaining": "705.382607",
             "side": "bid"
         },
         {
@@ -10081,6 +10065,14 @@
             "price": "260.10",
             "delta": "3.1",
             "remaining": "3.1",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "260.11",
+            "delta": "3",
+            "remaining": "3",
             "side": "bid"
         },
         {
@@ -10135,8 +10127,8 @@
             "type": "change",
             "reason": "initial",
             "price": "261.00",
-            "delta": "23.643754",
-            "remaining": "23.643754",
+            "delta": "40.252949",
+            "remaining": "40.252949",
             "side": "bid"
         },
         {
@@ -10153,6 +10145,14 @@
             "price": "261.50",
             "delta": "1",
             "remaining": "1",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "261.74",
+            "delta": "4",
+            "remaining": "4",
             "side": "bid"
         },
         {
@@ -10183,8 +10183,8 @@
             "type": "change",
             "reason": "initial",
             "price": "262.00",
-            "delta": "12.449389",
-            "remaining": "12.449389",
+            "delta": "8.449389",
+            "remaining": "8.449389",
             "side": "bid"
         },
         {
@@ -10247,8 +10247,8 @@
             "type": "change",
             "reason": "initial",
             "price": "263.11",
-            "delta": "2",
-            "remaining": "2",
+            "delta": "5",
+            "remaining": "5",
             "side": "bid"
         },
         {
@@ -10303,8 +10303,8 @@
             "type": "change",
             "reason": "initial",
             "price": "265.00",
-            "delta": "176.330617",
-            "remaining": "176.330617",
+            "delta": "178.645447",
+            "remaining": "178.645447",
             "side": "bid"
         },
         {
@@ -10383,8 +10383,8 @@
             "type": "change",
             "reason": "initial",
             "price": "266.00",
-            "delta": "33.155639",
-            "remaining": "33.155639",
+            "delta": "30.655639",
+            "remaining": "30.655639",
             "side": "bid"
         },
         {
@@ -10398,9 +10398,25 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "266.11",
+            "delta": "3",
+            "remaining": "3",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "266.27",
             "delta": "0.018777",
             "remaining": "0.018777",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "266.40",
+            "delta": "19",
+            "remaining": "19",
             "side": "bid"
         },
         {
@@ -10446,6 +10462,14 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "267.65",
+            "delta": "0.467775",
+            "remaining": "0.467775",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "267.76",
             "delta": "1",
             "remaining": "1",
@@ -10463,8 +10487,8 @@
             "type": "change",
             "reason": "initial",
             "price": "268.00",
-            "delta": "22.5",
-            "remaining": "22.5",
+            "delta": "26.22388",
+            "remaining": "26.22388",
             "side": "bid"
         },
         {
@@ -10478,9 +10502,25 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "269.11",
+            "price": "268.88",
+            "delta": "0.148765",
+            "remaining": "0.148765",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "269.00",
             "delta": "2",
             "remaining": "2",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "269.11",
+            "delta": "5",
+            "remaining": "5",
             "side": "bid"
         },
         {
@@ -10535,24 +10575,24 @@
             "type": "change",
             "reason": "initial",
             "price": "270.00",
-            "delta": "528.714394",
-            "remaining": "528.714394",
+            "delta": "576.836875",
+            "remaining": "576.836875",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "270.01",
-            "delta": "16",
-            "remaining": "16",
+            "delta": "89.70208",
+            "remaining": "89.70208",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "270.02",
-            "delta": "2",
-            "remaining": "2",
+            "delta": "1",
+            "remaining": "1",
             "side": "bid"
         },
         {
@@ -10575,8 +10615,8 @@
             "type": "change",
             "reason": "initial",
             "price": "270.10",
-            "delta": "2.8",
-            "remaining": "2.8",
+            "delta": "2.5",
+            "remaining": "2.5",
             "side": "bid"
         },
         {
@@ -10625,6 +10665,14 @@
             "price": "270.50",
             "delta": "3.184842",
             "remaining": "3.184842",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "270.55",
+            "delta": "0.5",
+            "remaining": "0.5",
             "side": "bid"
         },
         {
@@ -10679,8 +10727,8 @@
             "type": "change",
             "reason": "initial",
             "price": "271.00",
-            "delta": "7.79",
-            "remaining": "7.79",
+            "delta": "5.29",
+            "remaining": "5.29",
             "side": "bid"
         },
         {
@@ -10726,9 +10774,17 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "271.48",
+            "delta": "4",
+            "remaining": "4",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "271.50",
-            "delta": "1",
-            "remaining": "1",
+            "delta": "2.104972",
+            "remaining": "2.104972",
             "side": "bid"
         },
         {
@@ -10774,6 +10830,14 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "272.11",
+            "delta": "3",
+            "remaining": "3",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "272.20",
             "delta": "0.2",
             "remaining": "0.2",
@@ -10785,14 +10849,6 @@
             "price": "272.27",
             "delta": "0.018364",
             "remaining": "0.018364",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "272.50",
-            "delta": "4",
-            "remaining": "4",
             "side": "bid"
         },
         {
@@ -10831,8 +10887,8 @@
             "type": "change",
             "reason": "initial",
             "price": "273.00",
-            "delta": "1.7326",
-            "remaining": "1.7326",
+            "delta": "1",
+            "remaining": "1",
             "side": "bid"
         },
         {
@@ -10862,17 +10918,17 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "273.45",
-            "delta": "0.413187",
-            "remaining": "0.413187",
+            "price": "273.48",
+            "delta": "0.413489",
+            "remaining": "0.413489",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "274.00",
-            "delta": "16.1",
-            "remaining": "16.1",
+            "delta": "15.1",
+            "remaining": "15.1",
             "side": "bid"
         },
         {
@@ -10967,8 +11023,8 @@
             "type": "change",
             "reason": "initial",
             "price": "275.00",
-            "delta": "1010.584266",
-            "remaining": "1010.584266",
+            "delta": "1015.112447",
+            "remaining": "1015.112447",
             "side": "bid"
         },
         {
@@ -11006,9 +11062,33 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "275.11",
+            "delta": "3",
+            "remaining": "3",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "275.19",
+            "delta": "6.428285",
+            "remaining": "6.428285",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "275.35",
             "delta": "1",
             "remaining": "1",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "275.42",
+            "delta": "5",
+            "remaining": "5",
             "side": "bid"
         },
         {
@@ -11063,8 +11143,8 @@
             "type": "change",
             "reason": "initial",
             "price": "276.00",
-            "delta": "85.944528",
-            "remaining": "85.944528",
+            "delta": "85.318441",
+            "remaining": "85.318441",
             "side": "bid"
         },
         {
@@ -11118,6 +11198,14 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "276.45",
+            "delta": "2",
+            "remaining": "2",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "276.76",
             "delta": "0.09033",
             "remaining": "0.09033",
@@ -11159,8 +11247,8 @@
             "type": "change",
             "reason": "initial",
             "price": "277.00",
-            "delta": "105.168786",
-            "remaining": "105.168786",
+            "delta": "124.766786",
+            "remaining": "124.766786",
             "side": "bid"
         },
         {
@@ -11191,16 +11279,24 @@
             "type": "change",
             "reason": "initial",
             "price": "278.00",
-            "delta": "12.296733",
-            "remaining": "12.296733",
+            "delta": "8.296733",
+            "remaining": "8.296733",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "278.04",
-            "delta": "0.409759",
-            "remaining": "0.409759",
+            "price": "278.08",
+            "delta": "0.410059",
+            "remaining": "0.410059",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "278.11",
+            "delta": "3",
+            "remaining": "3",
             "side": "bid"
         },
         {
@@ -11247,8 +11343,8 @@
             "type": "change",
             "reason": "initial",
             "price": "278.50",
-            "delta": "107",
-            "remaining": "107",
+            "delta": "102",
+            "remaining": "102",
             "side": "bid"
         },
         {
@@ -11271,8 +11367,8 @@
             "type": "change",
             "reason": "initial",
             "price": "279.00",
-            "delta": "12.288483",
-            "remaining": "12.288483",
+            "delta": "14.022534",
+            "remaining": "14.022534",
             "side": "bid"
         },
         {
@@ -11294,25 +11390,33 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "279.95",
+            "delta": "0.5",
+            "remaining": "0.5",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "280.00",
-            "delta": "878.621538",
-            "remaining": "878.621538",
+            "delta": "766.62958",
+            "remaining": "766.62958",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "280.01",
-            "delta": "49.612337",
-            "remaining": "49.612337",
+            "delta": "44.268957",
+            "remaining": "44.268957",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "280.02",
-            "delta": "12",
-            "remaining": "12",
+            "delta": "11",
+            "remaining": "11",
             "side": "bid"
         },
         {
@@ -11343,8 +11447,8 @@
             "type": "change",
             "reason": "initial",
             "price": "280.10",
-            "delta": "0.35",
-            "remaining": "0.35",
+            "delta": "0.1",
+            "remaining": "0.1",
             "side": "bid"
         },
         {
@@ -11366,9 +11470,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "280.15",
-            "delta": "10.59",
-            "remaining": "10.59",
+            "price": "280.19",
+            "delta": "10.70702",
+            "remaining": "10.70702",
             "side": "bid"
         },
         {
@@ -11382,9 +11486,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "280.30",
-            "delta": "10",
-            "remaining": "10",
+            "price": "280.50",
+            "delta": "50",
+            "remaining": "50",
             "side": "bid"
         },
         {
@@ -11447,8 +11551,8 @@
             "type": "change",
             "reason": "initial",
             "price": "281.00",
-            "delta": "15.479499",
-            "remaining": "15.479499",
+            "delta": "36.227221",
+            "remaining": "36.227221",
             "side": "bid"
         },
         {
@@ -11478,6 +11582,14 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "281.11",
+            "delta": "3",
+            "remaining": "3",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "281.12",
             "delta": "1",
             "remaining": "1",
@@ -11489,14 +11601,6 @@
             "price": "281.17",
             "delta": "1",
             "remaining": "1",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "281.23",
-            "delta": "3.3495",
-            "remaining": "3.3495",
             "side": "bid"
         },
         {
@@ -11521,6 +11625,14 @@
             "price": "281.58",
             "delta": "4",
             "remaining": "4",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "281.67",
+            "delta": "0.25",
+            "remaining": "0.25",
             "side": "bid"
         },
         {
@@ -11559,8 +11671,8 @@
             "type": "change",
             "reason": "initial",
             "price": "282.00",
-            "delta": "73.299977",
-            "remaining": "73.299977",
+            "delta": "88.409904",
+            "remaining": "88.409904",
             "side": "bid"
         },
         {
@@ -11614,17 +11726,17 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "282.50",
-            "delta": "1.187964",
-            "remaining": "1.187964",
+            "price": "282.46",
+            "delta": "1.0621",
+            "remaining": "1.0621",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "282.71",
-            "delta": "0.40636",
-            "remaining": "0.40636",
+            "price": "282.50",
+            "delta": "0.707964",
+            "remaining": "0.707964",
             "side": "bid"
         },
         {
@@ -11638,9 +11750,17 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "282.75",
+            "delta": "0.406657",
+            "remaining": "0.406657",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "283.00",
-            "delta": "58.255405",
-            "remaining": "58.255405",
+            "delta": "38.725228",
+            "remaining": "38.725228",
             "side": "bid"
         },
         {
@@ -11710,14 +11830,6 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "283.88",
-            "delta": "5.99225",
-            "remaining": "5.99225",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "283.99",
             "delta": "3",
             "remaining": "3",
@@ -11727,8 +11839,16 @@
             "type": "change",
             "reason": "initial",
             "price": "284.00",
-            "delta": "218.098591",
-            "remaining": "218.098591",
+            "delta": "217.098591",
+            "remaining": "217.098591",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "284.11",
+            "delta": "3",
+            "remaining": "3",
             "side": "bid"
         },
         {
@@ -11798,17 +11918,25 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "284.88",
+            "delta": "100",
+            "remaining": "100",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "285.00",
-            "delta": "1447.025428",
-            "remaining": "1447.025428",
+            "delta": "1367.005876",
+            "remaining": "1367.005876",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "285.01",
-            "delta": "35.095908",
-            "remaining": "35.095908",
+            "delta": "32.621854",
+            "remaining": "32.621854",
             "side": "bid"
         },
         {
@@ -11879,8 +12007,16 @@
             "type": "change",
             "reason": "initial",
             "price": "285.50",
-            "delta": "18.025394",
-            "remaining": "18.025394",
+            "delta": "8.025394",
+            "remaining": "8.025394",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "285.55",
+            "delta": "0.5",
+            "remaining": "0.5",
             "side": "bid"
         },
         {
@@ -11935,8 +12071,8 @@
             "type": "change",
             "reason": "initial",
             "price": "286.00",
-            "delta": "162.968809",
-            "remaining": "162.968809",
+            "delta": "159.466012",
+            "remaining": "159.466012",
             "side": "bid"
         },
         {
@@ -11998,33 +12134,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "286.32",
-            "delta": "4.76",
-            "remaining": "4.76",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "286.50",
             "delta": "7.853402",
             "remaining": "7.853402",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "286.54",
-            "delta": "0.069798",
-            "remaining": "0.069798",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "286.90",
-            "delta": "73",
-            "remaining": "73",
             "side": "bid"
         },
         {
@@ -12038,9 +12150,17 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "286.99",
+            "delta": "0.174222",
+            "remaining": "0.174222",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "287.00",
-            "delta": "87.313409",
-            "remaining": "87.313409",
+            "delta": "87.425988",
+            "remaining": "87.425988",
             "side": "bid"
         },
         {
@@ -12055,16 +12175,16 @@
             "type": "change",
             "reason": "initial",
             "price": "287.10",
-            "delta": "1.741553",
-            "remaining": "1.741553",
+            "delta": "1.991553",
+            "remaining": "1.991553",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "287.12",
-            "delta": "1",
-            "remaining": "1",
+            "delta": "4",
+            "remaining": "4",
             "side": "bid"
         },
         {
@@ -12079,8 +12199,16 @@
             "type": "change",
             "reason": "initial",
             "price": "287.20",
-            "delta": "0.347318",
-            "remaining": "0.347318",
+            "delta": "5.347318",
+            "remaining": "5.347318",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "287.27",
+            "delta": "10",
+            "remaining": "10",
             "side": "bid"
         },
         {
@@ -12089,22 +12217,6 @@
             "price": "287.32",
             "delta": "3",
             "remaining": "3",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "287.34",
-            "delta": "3",
-            "remaining": "3",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "287.46",
-            "delta": "0.402989",
-            "remaining": "0.402989",
             "side": "bid"
         },
         {
@@ -12119,8 +12231,16 @@
             "type": "change",
             "reason": "initial",
             "price": "287.50",
-            "delta": "0.05",
-            "remaining": "0.05",
+            "delta": "0.453284",
+            "remaining": "0.453284",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "287.55",
+            "delta": "0.5",
+            "remaining": "0.5",
             "side": "bid"
         },
         {
@@ -12129,22 +12249,6 @@
             "price": "287.60",
             "delta": "4.684527",
             "remaining": "4.684527",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "287.77",
-            "delta": "155.90966",
-            "remaining": "155.90966",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "287.88",
-            "delta": "2",
-            "remaining": "2",
             "side": "bid"
         },
         {
@@ -12161,14 +12265,6 @@
             "price": "287.90",
             "delta": "1",
             "remaining": "1",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "287.97",
-            "delta": "1.736291",
-            "remaining": "1.736291",
             "side": "bid"
         },
         {
@@ -12191,8 +12287,8 @@
             "type": "change",
             "reason": "initial",
             "price": "288.00",
-            "delta": "133.574445",
-            "remaining": "133.574445",
+            "delta": "97.627465",
+            "remaining": "97.627465",
             "side": "bid"
         },
         {
@@ -12222,6 +12318,14 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "288.05",
+            "delta": "3.5",
+            "remaining": "3.5",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "288.10",
             "delta": "3.728427",
             "remaining": "3.728427",
@@ -12233,14 +12337,6 @@
             "price": "288.14",
             "delta": "0.009231",
             "remaining": "0.009231",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "288.15",
-            "delta": "1",
-            "remaining": "1",
             "side": "bid"
         },
         {
@@ -12270,17 +12366,17 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "288.32",
-            "delta": "20.810211",
-            "remaining": "20.810211",
+            "price": "288.47",
+            "delta": "1.03997",
+            "remaining": "1.03997",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "288.50",
-            "delta": "4",
-            "remaining": "4",
+            "delta": "9.3",
+            "remaining": "9.3",
             "side": "bid"
         },
         {
@@ -12303,8 +12399,16 @@
             "type": "change",
             "reason": "initial",
             "price": "288.80",
-            "delta": "31.672437",
-            "remaining": "31.672437",
+            "delta": "10.896814",
+            "remaining": "10.896814",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "288.91",
+            "delta": "1",
+            "remaining": "1",
             "side": "bid"
         },
         {
@@ -12319,8 +12423,8 @@
             "type": "change",
             "reason": "initial",
             "price": "289.00",
-            "delta": "171.339429",
-            "remaining": "171.339429",
+            "delta": "199.951079",
+            "remaining": "199.951079",
             "side": "bid"
         },
         {
@@ -12335,8 +12439,16 @@
             "type": "change",
             "reason": "initial",
             "price": "289.10",
-            "delta": "31.89641",
-            "remaining": "31.89641",
+            "delta": "3.45901",
+            "remaining": "3.45901",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "289.17",
+            "delta": "0.25",
+            "remaining": "0.25",
             "side": "bid"
         },
         {
@@ -12350,38 +12462,6 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "289.30",
-            "delta": "20.739716",
-            "remaining": "20.739716",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "289.71",
-            "delta": "7.999",
-            "remaining": "7.999",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "289.80",
-            "delta": "20.703934",
-            "remaining": "20.703934",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "289.89",
-            "delta": "0.086239",
-            "remaining": "0.086239",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "289.90",
             "delta": "5.034494",
             "remaining": "5.034494",
@@ -12390,41 +12470,41 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "289.91",
+            "delta": "1",
+            "remaining": "1",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "289.99",
-            "delta": "1.7209",
-            "remaining": "1.7209",
+            "delta": "25.00044",
+            "remaining": "25.00044",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "290.00",
-            "delta": "937.164922",
-            "remaining": "937.164922",
+            "delta": "729.26116",
+            "remaining": "729.26116",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "290.01",
-            "delta": "46.596832",
-            "remaining": "46.596832",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "290.02",
-            "delta": "1.7",
-            "remaining": "1.7",
+            "delta": "6.919768",
+            "remaining": "6.919768",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "290.10",
-            "delta": "3.15",
-            "remaining": "3.15",
+            "delta": "10",
+            "remaining": "10",
             "side": "bid"
         },
         {
@@ -12454,17 +12534,17 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "290.15",
-            "delta": "3.285955",
-            "remaining": "3.285955",
+            "price": "290.20",
+            "delta": "5",
+            "remaining": "5",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "290.20",
-            "delta": "5",
-            "remaining": "5",
+            "price": "290.25",
+            "delta": "1",
+            "remaining": "1",
             "side": "bid"
         },
         {
@@ -12486,17 +12566,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "290.38",
-            "delta": "0.05",
-            "remaining": "0.05",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "290.50",
-            "delta": "0.754457",
-            "remaining": "0.754457",
+            "delta": "0.4",
+            "remaining": "0.4",
             "side": "bid"
         },
         {
@@ -12550,9 +12622,73 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "290.86",
+            "delta": "2",
+            "remaining": "2",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "290.89",
+            "delta": "10.862697",
+            "remaining": "10.862697",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "290.91",
+            "delta": "1",
+            "remaining": "1",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "290.97",
+            "delta": "1",
+            "remaining": "1",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "290.99",
+            "delta": "1.715",
+            "remaining": "1.715",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "291.00",
-            "delta": "403.151362",
-            "remaining": "403.151362",
+            "delta": "430.649117",
+            "remaining": "430.649117",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "291.01",
+            "delta": "100",
+            "remaining": "100",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "291.02",
+            "delta": "10",
+            "remaining": "10",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "291.05",
+            "delta": "0.5",
+            "remaining": "0.5",
             "side": "bid"
         },
         {
@@ -12574,22 +12710,6 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "291.12",
-            "delta": "3.39",
-            "remaining": "3.39",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "291.14",
-            "delta": "1.72",
-            "remaining": "1.72",
-            "side": "bid"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "291.20",
             "delta": "50.5505",
             "remaining": "50.5505",
@@ -12598,63 +12718,407 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "291.22",
-            "delta": "12.354891",
-            "remaining": "12.354891",
+            "price": "291.23",
+            "delta": "1",
+            "remaining": "1",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "291.25",
-            "delta": "20",
-            "remaining": "20",
+            "delta": "0.706884",
+            "remaining": "0.706884",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "291.43",
-            "delta": "0.003875",
-            "remaining": "0.003875",
+            "price": "291.26",
+            "delta": "0.135617",
+            "remaining": "0.135617",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "291.47",
-            "delta": "0.35935",
-            "remaining": "0.35935",
+            "price": "291.30",
+            "delta": "2.5",
+            "remaining": "2.5",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "291.40",
+            "delta": "2",
+            "remaining": "2",
             "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "291.48",
-            "delta": "236.006248",
-            "remaining": "236.006248",
-            "side": "ask"
+            "delta": "0.015075",
+            "remaining": "0.015075",
+            "side": "bid"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "291.49",
-            "delta": "11.160247",
-            "remaining": "11.160247",
+            "delta": "3.430649",
+            "remaining": "3.430649",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "291.50",
+            "delta": "0.447683",
+            "remaining": "0.447683",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "291.55",
+            "delta": "20",
+            "remaining": "20",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "291.61",
+            "delta": "0.015113",
+            "remaining": "0.015113",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "291.80",
+            "delta": "0.055",
+            "remaining": "0.055",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "291.85",
+            "delta": "3.426417",
+            "remaining": "3.426417",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "291.86",
+            "delta": "2.5",
+            "remaining": "2.5",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "291.88",
+            "delta": "0.06835",
+            "remaining": "0.06835",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "291.91",
+            "delta": "1",
+            "remaining": "1",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "291.93",
+            "delta": "5",
+            "remaining": "5",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "292.00",
+            "delta": "75.053217",
+            "remaining": "75.053217",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "292.02",
+            "delta": "0.684884",
+            "remaining": "0.684884",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "292.03",
+            "delta": "1",
+            "remaining": "1",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "292.10",
+            "delta": "0.1",
+            "remaining": "0.1",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "292.17",
+            "delta": "246.43603",
+            "remaining": "246.43603",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "292.50",
+            "delta": "46.26",
+            "remaining": "46.26",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "293.00",
+            "delta": "37",
+            "remaining": "37",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "293.03",
+            "delta": "1.7",
+            "remaining": "1.7",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "293.26",
+            "delta": "0.25",
+            "remaining": "0.25",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "293.44",
+            "delta": "20.44711",
+            "remaining": "20.44711",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "293.53",
+            "delta": "3.915614",
+            "remaining": "3.915614",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "293.63",
+            "delta": "3.430405",
+            "remaining": "3.430405",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "293.94",
+            "delta": "20.412329",
+            "remaining": "20.412329",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "294.00",
+            "delta": "1.5",
+            "remaining": "1.5",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "294.04",
+            "delta": "28.4374",
+            "remaining": "28.4374",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "294.33",
+            "delta": "0.25",
+            "remaining": "0.25",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "294.36",
+            "delta": "0.003872",
+            "remaining": "0.003872",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "294.46",
+            "delta": "20.376282",
+            "remaining": "20.376282",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "294.59",
+            "delta": "0.49",
+            "remaining": "0.49",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "294.79",
+            "delta": "20.353472",
+            "remaining": "20.353472",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "294.80",
+            "delta": "8",
+            "remaining": "8",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "295.00",
+            "delta": "5.043457",
+            "remaining": "5.043457",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "295.05",
+            "delta": "0.05",
+            "remaining": "0.05",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "295.40",
+            "delta": "0.169262",
+            "remaining": "0.169262",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "295.65",
+            "delta": "20",
+            "remaining": "20",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "295.68",
+            "delta": "10",
+            "remaining": "10",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "295.70",
+            "delta": "20",
+            "remaining": "20",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "295.71",
+            "delta": "297.123889",
+            "remaining": "297.123889",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "295.89",
+            "delta": "11",
+            "remaining": "11",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "295.96",
+            "delta": "48.4594",
+            "remaining": "48.4594",
+            "side": "bid"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "295.97",
+            "delta": "57.242552",
+            "remaining": "57.242552",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "291.53",
-            "delta": "18.066",
-            "remaining": "18.066",
+            "price": "296.11",
+            "delta": "21.999999",
+            "remaining": "21.999999",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "291.56",
+            "price": "296.15",
+            "delta": "18.977107",
+            "remaining": "18.977107",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.39",
+            "delta": "0.018536",
+            "remaining": "0.018536",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.40",
             "delta": "20",
             "remaining": "20",
             "side": "ask"
@@ -12662,47 +13126,159 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "291.58",
-            "delta": "0.119904",
-            "remaining": "0.119904",
+            "price": "296.42",
+            "delta": "20.021905",
+            "remaining": "20.021905",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "291.84",
-            "delta": "20.55921",
-            "remaining": "20.55921",
+            "price": "296.45",
+            "delta": "0.018528",
+            "remaining": "0.018528",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "292.35",
-            "delta": "20.523345",
-            "remaining": "20.523345",
+            "price": "296.66",
+            "delta": "0.018515",
+            "remaining": "0.018515",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "292.56",
-            "delta": "730.83981",
-            "remaining": "730.83981",
+            "price": "296.67",
+            "delta": "0.025249",
+            "remaining": "0.025249",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "292.59",
-            "delta": "0.112035",
-            "remaining": "0.112035",
+            "price": "296.68",
+            "delta": "0.021882",
+            "remaining": "0.021882",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "292.78",
+            "price": "296.69",
+            "delta": "0.025251",
+            "remaining": "0.025251",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.70",
+            "delta": "0.02188",
+            "remaining": "0.02188",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.71",
+            "delta": "0.038713",
+            "remaining": "0.038713",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.72",
+            "delta": "0.018509",
+            "remaining": "0.018509",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.73",
+            "delta": "0.021877",
+            "remaining": "0.021877",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.74",
+            "delta": "0.02524",
+            "remaining": "0.02524",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.75",
+            "delta": "0.025242",
+            "remaining": "0.025242",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.76",
+            "delta": "0.018506",
+            "remaining": "0.018506",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.77",
+            "delta": "8.014143",
+            "remaining": "8.014143",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.78",
+            "delta": "0.025244",
+            "remaining": "0.025244",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.79",
+            "delta": "0.021871",
+            "remaining": "0.021871",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.80",
+            "delta": "0.021871",
+            "remaining": "0.021871",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.81",
+            "delta": "0.015136",
+            "remaining": "0.015136",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.82",
+            "delta": "0.02187",
+            "remaining": "0.02187",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "296.83",
             "delta": "0.05",
             "remaining": "0.05",
             "side": "ask"
@@ -12710,207 +13286,23 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "292.84",
-            "delta": "20.489004",
-            "remaining": "20.489004",
+            "price": "297.02",
+            "delta": "20.20066",
+            "remaining": "20.20066",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "292.94",
-            "delta": "5",
-            "remaining": "5",
+            "price": "297.24",
+            "delta": "0.39662",
+            "remaining": "0.39662",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "293.02",
-            "delta": "28.4374",
-            "remaining": "28.4374",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "293.33",
-            "delta": "20.454778",
-            "remaining": "20.454778",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "293.50",
-            "delta": "0.5",
-            "remaining": "0.5",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "293.72",
-            "delta": "20.427618",
-            "remaining": "20.427618",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "294.41",
-            "delta": "4.789447",
-            "remaining": "4.789447",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "294.70",
-            "delta": "5",
-            "remaining": "5",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "294.71",
-            "delta": "206.99601",
-            "remaining": "206.99601",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "297.20",
-            "delta": "0.396331",
-            "remaining": "0.396331",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "299.24",
-            "delta": "5.745724",
-            "remaining": "5.745724",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "300.00",
-            "delta": "2.792724",
-            "remaining": "2.792724",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "300.49",
-            "delta": "0.015037",
-            "remaining": "0.015037",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "300.63",
-            "delta": "0.015075",
-            "remaining": "0.015075",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "301.79",
-            "delta": "0.015435",
-            "remaining": "0.015435",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "301.80",
-            "delta": "0.015461",
-            "remaining": "0.015461",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "302.00",
-            "delta": "7.455765",
-            "remaining": "7.455765",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "302.07",
-            "delta": "0.012659",
-            "remaining": "0.012659",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "302.19",
-            "delta": "0.393043",
-            "remaining": "0.393043",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "302.21",
-            "delta": "0.010304",
-            "remaining": "0.010304",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "303.00",
-            "delta": "30",
-            "remaining": "30",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "304.93",
-            "delta": "0.00297149",
-            "remaining": "0.00297149",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "305.00",
-            "delta": "65.193131",
-            "remaining": "65.193131",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "305.30",
-            "delta": "10",
-            "remaining": "10",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "305.45",
-            "delta": "10.26",
-            "remaining": "10.26",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "305.50",
+            "price": "297.46",
             "delta": "2",
             "remaining": "2",
             "side": "ask"
@@ -12918,25 +13310,249 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "306.00",
-            "delta": "200",
-            "remaining": "200",
+            "price": "297.53",
+            "delta": "20.166034",
+            "remaining": "20.166034",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "306.92",
-            "delta": "8.62",
-            "remaining": "8.62",
+            "price": "298.00",
+            "delta": "30",
+            "remaining": "30",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "298.02",
+            "delta": "20.132877",
+            "remaining": "20.132877",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "298.34",
+            "delta": "28.4374",
+            "remaining": "28.4374",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "298.49",
+            "delta": "20.101176",
+            "remaining": "20.101176",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "298.70",
+            "delta": "0.46",
+            "remaining": "0.46",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "298.98",
+            "delta": "20.068232",
+            "remaining": "20.068232",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "299.50",
+            "delta": "12.48",
+            "remaining": "12.48",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "299.82",
+            "delta": "0.25",
+            "remaining": "0.25",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "299.93",
+            "delta": "9.654",
+            "remaining": "9.654",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "299.99",
+            "delta": "225.18784",
+            "remaining": "225.18784",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "300.00",
+            "delta": "0.1",
+            "remaining": "0.1",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "300.05",
+            "delta": "7.2",
+            "remaining": "7.2",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "301.28",
+            "delta": "12.394886",
+            "remaining": "12.394886",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "301.52",
+            "delta": "0.015474",
+            "remaining": "0.015474",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "301.53",
+            "delta": "0.0155",
+            "remaining": "0.0155",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "301.80",
+            "delta": "0.012691",
+            "remaining": "0.012691",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "301.93",
+            "delta": "0.01033",
+            "remaining": "0.01033",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "302.23",
+            "delta": "0.39333",
+            "remaining": "0.39333",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "302.38",
+            "delta": "6.888",
+            "remaining": "6.888",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "302.45",
+            "delta": "1.94",
+            "remaining": "1.94",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "304.06",
+            "delta": "3.624914",
+            "remaining": "3.624914",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "304.20",
+            "delta": "0.5",
+            "remaining": "0.5",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "304.25",
+            "delta": "8",
+            "remaining": "8",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "305.00",
+            "delta": "177.385507",
+            "remaining": "177.385507",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "305.50",
+            "delta": "0.339976",
+            "remaining": "0.339976",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "305.51",
+            "delta": "0.95",
+            "remaining": "0.95",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "305.62",
+            "delta": "16.729379",
+            "remaining": "16.729379",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "306.00",
+            "delta": "275.001339",
+            "remaining": "275.001339",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "307.00",
-            "delta": "1.653549",
-            "remaining": "1.653549",
+            "delta": "58.92334",
+            "remaining": "58.92334",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "307.09",
+            "delta": "0.005",
+            "remaining": "0.005",
             "side": "ask"
         },
         {
@@ -12950,25 +13566,17 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "307.27",
-            "delta": "0.389782",
-            "remaining": "0.389782",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "307.60",
-            "delta": "2",
-            "remaining": "2",
+            "price": "307.31",
+            "delta": "0.390067",
+            "remaining": "0.390067",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "308.00",
-            "delta": "53.595433",
-            "remaining": "53.595433",
+            "delta": "55.273698",
+            "remaining": "55.273698",
             "side": "ask"
         },
         {
@@ -12982,9 +13590,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "308.44",
-            "delta": "9.78",
-            "remaining": "9.78",
+            "price": "308.13",
+            "delta": "32.734",
+            "remaining": "32.734",
             "side": "ask"
         },
         {
@@ -12999,8 +13607,32 @@
             "type": "change",
             "reason": "initial",
             "price": "309.00",
-            "delta": "17.5049",
-            "remaining": "17.5049",
+            "delta": "16.667399",
+            "remaining": "16.667399",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "309.07",
+            "delta": "0.005",
+            "remaining": "0.005",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "309.10",
+            "delta": "1.5245",
+            "remaining": "1.5245",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "309.17",
+            "delta": "2",
+            "remaining": "2",
             "side": "ask"
         },
         {
@@ -13014,33 +13646,49 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "309.65",
-            "delta": "19.936896",
-            "remaining": "19.936896",
+            "price": "309.78",
+            "delta": "12",
+            "remaining": "12",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "309.99",
-            "delta": "1.320717",
-            "remaining": "1.320717",
+            "delta": "4.785847",
+            "remaining": "4.785847",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "310.00",
-            "delta": "508.977798",
-            "remaining": "508.977798",
+            "delta": "638.494092",
+            "remaining": "638.494092",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "310.05",
+            "delta": "0.2574",
+            "remaining": "0.2574",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "310.55",
+            "delta": "0.5",
+            "remaining": "0.5",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "311.00",
-            "delta": "48.33378",
-            "remaining": "48.33378",
+            "delta": "63.13956",
+            "remaining": "63.13956",
             "side": "ask"
         },
         {
@@ -13071,8 +13719,8 @@
             "type": "change",
             "reason": "initial",
             "price": "312.00",
-            "delta": "13.671485",
-            "remaining": "13.671485",
+            "delta": "18.671485",
+            "remaining": "18.671485",
             "side": "ask"
         },
         {
@@ -13086,25 +13734,17 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "312.33",
-            "delta": "2",
-            "remaining": "2",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "312.43",
-            "delta": "0.386549",
-            "remaining": "0.386549",
+            "price": "312.47",
+            "delta": "0.386831",
+            "remaining": "0.386831",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "313.00",
-            "delta": "113.038972",
-            "remaining": "113.038972",
+            "delta": "106.203201",
+            "remaining": "106.203201",
             "side": "ask"
         },
         {
@@ -13118,6 +13758,14 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "313.18",
+            "delta": "12",
+            "remaining": "12",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "313.46",
             "delta": "1.65926",
             "remaining": "1.65926",
@@ -13126,17 +13774,25 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "314.00",
-            "delta": "5.095774",
-            "remaining": "5.095774",
+            "price": "313.97",
+            "delta": "1.017087",
+            "remaining": "1.017087",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "314.12",
-            "delta": "16",
-            "remaining": "16",
+            "price": "313.98",
+            "delta": "10.738087",
+            "remaining": "10.738087",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "314.00",
+            "delta": "6.735554",
+            "remaining": "6.735554",
             "side": "ask"
         },
         {
@@ -13151,8 +13807,8 @@
             "type": "change",
             "reason": "initial",
             "price": "315.00",
-            "delta": "158.450739",
-            "remaining": "158.450739",
+            "delta": "257.677942",
+            "remaining": "257.677942",
             "side": "ask"
         },
         {
@@ -13175,8 +13831,8 @@
             "type": "change",
             "reason": "initial",
             "price": "316.00",
-            "delta": "60.586266",
-            "remaining": "60.586266",
+            "delta": "4",
+            "remaining": "4",
             "side": "ask"
         },
         {
@@ -13207,8 +13863,8 @@
             "type": "change",
             "reason": "initial",
             "price": "317.00",
-            "delta": "202.66",
-            "remaining": "202.66",
+            "delta": "2.66",
+            "remaining": "2.66",
             "side": "ask"
         },
         {
@@ -13217,14 +13873,6 @@
             "price": "317.09",
             "delta": "0.0049",
             "remaining": "0.0049",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "317.12",
-            "delta": "16",
-            "remaining": "16",
             "side": "ask"
         },
         {
@@ -13246,9 +13894,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "317.68",
-            "delta": "0.383342",
-            "remaining": "0.383342",
+            "price": "317.72",
+            "delta": "0.383622",
+            "remaining": "0.383622",
             "side": "ask"
         },
         {
@@ -13287,8 +13935,8 @@
             "type": "change",
             "reason": "initial",
             "price": "319.00",
-            "delta": "202.07837",
-            "remaining": "202.07837",
+            "delta": "428.07837",
+            "remaining": "428.07837",
             "side": "ask"
         },
         {
@@ -13303,8 +13951,8 @@
             "type": "change",
             "reason": "initial",
             "price": "319.90",
-            "delta": "3",
-            "remaining": "3",
+            "delta": "2",
+            "remaining": "2",
             "side": "ask"
         },
         {
@@ -13319,8 +13967,8 @@
             "type": "change",
             "reason": "initial",
             "price": "320.00",
-            "delta": "169.104146",
-            "remaining": "169.104146",
+            "delta": "103.387364",
+            "remaining": "103.387364",
             "side": "ask"
         },
         {
@@ -13390,9 +14038,25 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "323.02",
-            "delta": "0.380162",
-            "remaining": "0.380162",
+            "price": "323.06",
+            "delta": "0.38044",
+            "remaining": "0.38044",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "323.18",
+            "delta": "1",
+            "remaining": "1",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "323.23",
+            "delta": "8.307098",
+            "remaining": "8.307098",
             "side": "ask"
         },
         {
@@ -13423,8 +14087,8 @@
             "type": "change",
             "reason": "initial",
             "price": "324.00",
-            "delta": "124.987",
-            "remaining": "124.987",
+            "delta": "126.987",
+            "remaining": "126.987",
             "side": "ask"
         },
         {
@@ -13463,8 +14127,8 @@
             "type": "change",
             "reason": "initial",
             "price": "325.00",
-            "delta": "140.901416",
-            "remaining": "140.901416",
+            "delta": "141.171416",
+            "remaining": "141.171416",
             "side": "ask"
         },
         {
@@ -13543,16 +14207,24 @@
             "type": "change",
             "reason": "initial",
             "price": "328.00",
-            "delta": "31.424527",
-            "remaining": "31.424527",
+            "delta": "32.424527",
+            "remaining": "32.424527",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "328.44",
-            "delta": "4.377008",
-            "remaining": "4.377008",
+            "delta": "4",
+            "remaining": "4",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "328.49",
+            "delta": "0.377284",
+            "remaining": "0.377284",
             "side": "ask"
         },
         {
@@ -13566,9 +14238,17 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "328.84",
+            "delta": "13.665732",
+            "remaining": "13.665732",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "329.00",
-            "delta": "30.322283",
-            "remaining": "30.322283",
+            "delta": "69.381809",
+            "remaining": "69.381809",
             "side": "ask"
         },
         {
@@ -13607,8 +14287,8 @@
             "type": "change",
             "reason": "initial",
             "price": "330.00",
-            "delta": "521.689304",
-            "remaining": "521.689304",
+            "delta": "471.731588",
+            "remaining": "471.731588",
             "side": "ask"
         },
         {
@@ -13625,6 +14305,14 @@
             "price": "330.20",
             "delta": "10",
             "remaining": "10",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "330.85",
+            "delta": "6.033549",
+            "remaining": "6.033549",
             "side": "ask"
         },
         {
@@ -13647,8 +14335,8 @@
             "type": "change",
             "reason": "initial",
             "price": "332.00",
-            "delta": "67.924941",
-            "remaining": "67.924941",
+            "delta": "68.024941",
+            "remaining": "68.024941",
             "side": "ask"
         },
         {
@@ -13673,6 +14361,14 @@
             "price": "332.24",
             "delta": "32.4",
             "remaining": "32.4",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "332.33",
+            "delta": "42.103",
+            "remaining": "42.103",
             "side": "ask"
         },
         {
@@ -13703,8 +14399,8 @@
             "type": "change",
             "reason": "initial",
             "price": "333.00",
-            "delta": "51.5",
-            "remaining": "51.5",
+            "delta": "874.55293",
+            "remaining": "874.55293",
             "side": "ask"
         },
         {
@@ -13713,14 +14409,6 @@
             "price": "333.32",
             "delta": "1.701009",
             "remaining": "1.701009",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "333.96",
-            "delta": "0.373881",
-            "remaining": "0.373881",
             "side": "ask"
         },
         {
@@ -13735,8 +14423,16 @@
             "type": "change",
             "reason": "initial",
             "price": "334.00",
-            "delta": "1.65",
-            "remaining": "1.65",
+            "delta": "11.425408",
+            "remaining": "11.425408",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "334.01",
+            "delta": "0.374154",
+            "remaining": "0.374154",
             "side": "ask"
         },
         {
@@ -13783,8 +14479,8 @@
             "type": "change",
             "reason": "initial",
             "price": "335.00",
-            "delta": "270.287806",
-            "remaining": "270.287806",
+            "delta": "280.505017",
+            "remaining": "280.505017",
             "side": "ask"
         },
         {
@@ -13798,17 +14494,17 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "336.00",
-            "delta": "146.54695",
-            "remaining": "146.54695",
+            "price": "335.90",
+            "delta": "1",
+            "remaining": "1",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "336.03",
-            "delta": "0.5",
-            "remaining": "0.5",
+            "price": "336.00",
+            "delta": "146.54695",
+            "remaining": "146.54695",
             "side": "ask"
         },
         {
@@ -13831,8 +14527,8 @@
             "type": "change",
             "reason": "initial",
             "price": "337.00",
-            "delta": "13.76",
-            "remaining": "13.76",
+            "delta": "18.084472",
+            "remaining": "18.084472",
             "side": "ask"
         },
         {
@@ -13855,8 +14551,8 @@
             "type": "change",
             "reason": "initial",
             "price": "338.00",
-            "delta": "146.1",
-            "remaining": "146.1",
+            "delta": "239.276918",
+            "remaining": "239.276918",
             "side": "ask"
         },
         {
@@ -13879,8 +14575,8 @@
             "type": "change",
             "reason": "initial",
             "price": "339.00",
-            "delta": "48.96",
-            "remaining": "48.96",
+            "delta": "74.877398",
+            "remaining": "74.877398",
             "side": "ask"
         },
         {
@@ -13902,6 +14598,14 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "339.22",
+            "delta": "0.5",
+            "remaining": "0.5",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "339.50",
             "delta": "1.5",
             "remaining": "1.5",
@@ -13910,9 +14614,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "339.57",
-            "delta": "0.370779",
-            "remaining": "0.370779",
+            "price": "339.62",
+            "delta": "0.37105",
+            "remaining": "0.37105",
             "side": "ask"
         },
         {
@@ -13935,8 +14639,8 @@
             "type": "change",
             "reason": "initial",
             "price": "340.00",
-            "delta": "397.65721",
-            "remaining": "397.65721",
+            "delta": "418.75721",
+            "remaining": "418.75721",
             "side": "ask"
         },
         {
@@ -13977,14 +14681,6 @@
             "price": "341.00",
             "delta": "22.486759",
             "remaining": "22.486759",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "341.19",
-            "delta": "2",
-            "remaining": "2",
             "side": "ask"
         },
         {
@@ -14062,6 +14758,14 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "344.24",
+            "delta": "9.7",
+            "remaining": "9.7",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "344.88",
             "delta": "10",
             "remaining": "10",
@@ -14087,8 +14791,8 @@
             "type": "change",
             "reason": "initial",
             "price": "345.00",
-            "delta": "224.449184",
-            "remaining": "224.449184",
+            "delta": "232.840948",
+            "remaining": "232.840948",
             "side": "ask"
         },
         {
@@ -14110,9 +14814,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "345.28",
-            "delta": "0.367703",
-            "remaining": "0.367703",
+            "price": "345.32",
+            "delta": "0.367972",
+            "remaining": "0.367972",
             "side": "ask"
         },
         {
@@ -14158,14 +14862,6 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "346.90",
-            "delta": "3.004329",
-            "remaining": "3.004329",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "346.96",
             "delta": "10",
             "remaining": "10",
@@ -14175,8 +14871,8 @@
             "type": "change",
             "reason": "initial",
             "price": "347.00",
-            "delta": "61.172527",
-            "remaining": "61.172527",
+            "delta": "61.672527",
+            "remaining": "61.672527",
             "side": "ask"
         },
         {
@@ -14214,17 +14910,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "347.99",
-            "delta": "13.665732",
-            "remaining": "13.665732",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "348.00",
-            "delta": "315.668354",
-            "remaining": "315.668354",
+            "delta": "38.964634",
+            "remaining": "38.964634",
             "side": "ask"
         },
         {
@@ -14351,16 +15039,16 @@
             "type": "change",
             "reason": "initial",
             "price": "349.99",
-            "delta": "509.05",
-            "remaining": "509.05",
+            "delta": "575.297394",
+            "remaining": "575.297394",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "350.00",
-            "delta": "1092.68028473",
-            "remaining": "1092.68028473",
+            "delta": "1124.78092073",
+            "remaining": "1124.78092073",
             "side": "ask"
         },
         {
@@ -14398,14 +15086,6 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "350.50",
-            "delta": "0.650475",
-            "remaining": "0.650475",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "350.54",
             "delta": "2",
             "remaining": "2",
@@ -14430,9 +15110,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "351.08",
-            "delta": "0.364653",
-            "remaining": "0.364653",
+            "price": "351.13",
+            "delta": "0.36492",
+            "remaining": "0.36492",
             "side": "ask"
         },
         {
@@ -14449,14 +15129,6 @@
             "price": "351.34",
             "delta": "0.1235",
             "remaining": "0.1235",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "351.42",
-            "delta": "4.4",
-            "remaining": "4.4",
             "side": "ask"
         },
         {
@@ -14495,8 +15167,8 @@
             "type": "change",
             "reason": "initial",
             "price": "352.00",
-            "delta": "30.802148",
-            "remaining": "30.802148",
+            "delta": "11.802148",
+            "remaining": "11.802148",
             "side": "ask"
         },
         {
@@ -14583,16 +15255,16 @@
             "type": "change",
             "reason": "initial",
             "price": "354.99",
-            "delta": "5.079525",
-            "remaining": "5.079525",
+            "delta": "10",
+            "remaining": "10",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "355.00",
-            "delta": "261.155387",
-            "remaining": "261.155387",
+            "delta": "241.155387",
+            "remaining": "241.155387",
             "side": "ask"
         },
         {
@@ -14670,17 +15342,17 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "356.98",
-            "delta": "0.361628",
-            "remaining": "0.361628",
+            "price": "357.00",
+            "delta": "101.356431",
+            "remaining": "101.356431",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "357.00",
-            "delta": "101.356431",
-            "remaining": "101.356431",
+            "price": "357.02",
+            "delta": "0.361893",
+            "remaining": "0.361893",
             "side": "ask"
         },
         {
@@ -14782,9 +15454,17 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "359.99",
+            "delta": "10",
+            "remaining": "10",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "360.00",
-            "delta": "343.31184",
-            "remaining": "343.31184",
+            "delta": "340.31184",
+            "remaining": "340.31184",
             "side": "ask"
         },
         {
@@ -14878,14 +15558,6 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "361.88",
-            "delta": "0.333",
-            "remaining": "0.333",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "362.00",
             "delta": "4",
             "remaining": "4",
@@ -14911,8 +15583,8 @@
             "type": "change",
             "reason": "initial",
             "price": "362.97",
-            "delta": "0.408628",
-            "remaining": "0.408628",
+            "delta": "0.05",
+            "remaining": "0.05",
             "side": "ask"
         },
         {
@@ -14921,6 +15593,14 @@
             "price": "363.00",
             "delta": "4.150515",
             "remaining": "4.150515",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "363.02",
+            "delta": "0.35889",
+            "remaining": "0.35889",
             "side": "ask"
         },
         {
@@ -14966,9 +15646,17 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "364.99",
+            "delta": "10",
+            "remaining": "10",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "365.00",
-            "delta": "338.960071",
-            "remaining": "338.960071",
+            "delta": "335.794055",
+            "remaining": "335.794055",
             "side": "ask"
         },
         {
@@ -15062,9 +15750,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "369.07",
-            "delta": "0.355653",
-            "remaining": "0.355653",
+            "price": "369.12",
+            "delta": "0.355913",
+            "remaining": "0.355913",
             "side": "ask"
         },
         {
@@ -15094,9 +15782,17 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "369.99",
+            "delta": "10",
+            "remaining": "10",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "370.00",
-            "delta": "646.331861",
-            "remaining": "646.331861",
+            "delta": "646.885111",
+            "remaining": "646.885111",
             "side": "ask"
         },
         {
@@ -15191,8 +15887,8 @@
             "type": "change",
             "reason": "initial",
             "price": "374.99",
-            "delta": "0.34",
-            "remaining": "0.34",
+            "delta": "10.34",
+            "remaining": "10.34",
             "side": "ask"
         },
         {
@@ -15214,9 +15910,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "375.27",
-            "delta": "0.352703",
-            "remaining": "0.352703",
+            "price": "375.32",
+            "delta": "0.352961",
+            "remaining": "0.352961",
             "side": "ask"
         },
         {
@@ -15382,9 +16078,17 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "379.99",
+            "delta": "5.079525",
+            "remaining": "5.079525",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "380.00",
-            "delta": "455.096028",
-            "remaining": "455.096028",
+            "delta": "457.835228",
+            "remaining": "457.835228",
             "side": "ask"
         },
         {
@@ -15422,9 +16126,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "381.58",
-            "delta": "0.349777",
-            "remaining": "0.349777",
+            "price": "381.63",
+            "delta": "0.350033",
+            "remaining": "0.350033",
             "side": "ask"
         },
         {
@@ -15638,17 +16342,17 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "387.99",
-            "delta": "0.346875",
-            "remaining": "0.346875",
+            "price": "388.00",
+            "delta": "13.2",
+            "remaining": "13.2",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "388.00",
-            "delta": "13.2",
-            "remaining": "13.2",
+            "price": "388.04",
+            "delta": "0.347129",
+            "remaining": "0.347129",
             "side": "ask"
         },
         {
@@ -15967,8 +16671,8 @@
             "type": "change",
             "reason": "initial",
             "price": "394.50",
-            "delta": "10.343998",
-            "remaining": "10.343998",
+            "delta": "10",
+            "remaining": "10",
             "side": "ask"
         },
         {
@@ -15977,6 +16681,14 @@
             "price": "394.55",
             "delta": "0.2",
             "remaining": "0.2",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "394.56",
+            "delta": "0.344249",
+            "remaining": "0.344249",
             "side": "ask"
         },
         {
@@ -16055,8 +16767,8 @@
             "type": "change",
             "reason": "initial",
             "price": "395.00",
-            "delta": "111.162202",
-            "remaining": "111.162202",
+            "delta": "97.739384",
+            "remaining": "97.739384",
             "side": "ask"
         },
         {
@@ -16191,8 +16903,8 @@
             "type": "change",
             "reason": "initial",
             "price": "398.00",
-            "delta": "89.931689",
-            "remaining": "89.931689",
+            "delta": "87.419126",
+            "remaining": "87.419126",
             "side": "ask"
         },
         {
@@ -16247,8 +16959,8 @@
             "type": "change",
             "reason": "initial",
             "price": "399.00",
-            "delta": "406.418051",
-            "remaining": "406.418051",
+            "delta": "370.668697",
+            "remaining": "370.668697",
             "side": "ask"
         },
         {
@@ -16311,8 +17023,16 @@
             "type": "change",
             "reason": "initial",
             "price": "400.00",
-            "delta": "1247.022854",
-            "remaining": "1247.022854",
+            "delta": "1251.402854",
+            "remaining": "1251.402854",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
+            "price": "400.01",
+            "delta": "3.096",
+            "remaining": "3.096",
             "side": "ask"
         },
         {
@@ -16342,9 +17062,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "401.13",
-            "delta": "0.341144",
-            "remaining": "0.341144",
+            "price": "401.19",
+            "delta": "0.341393",
+            "remaining": "0.341393",
             "side": "ask"
         },
         {
@@ -16454,9 +17174,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "407.87",
-            "delta": "0.338314",
-            "remaining": "0.338314",
+            "price": "407.93",
+            "delta": "0.338561",
+            "remaining": "0.338561",
             "side": "ask"
         },
         {
@@ -16465,14 +17185,6 @@
             "price": "408.00",
             "delta": "4.199999",
             "remaining": "4.199999",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "408.80",
-            "delta": "4",
-            "remaining": "4",
             "side": "ask"
         },
         {
@@ -16606,9 +17318,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "414.72",
-            "delta": "0.335507",
-            "remaining": "0.335507",
+            "price": "414.78",
+            "delta": "0.335753",
+            "remaining": "0.335753",
             "side": "ask"
         },
         {
@@ -16702,9 +17414,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "421.69",
-            "delta": "0.332724",
-            "remaining": "0.332724",
+            "price": "421.75",
+            "delta": "0.332968",
+            "remaining": "0.332968",
             "side": "ask"
         },
         {
@@ -16806,9 +17518,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "428.78",
-            "delta": "0.329964",
-            "remaining": "0.329964",
+            "price": "428.83",
+            "delta": "0.330205",
+            "remaining": "0.330205",
             "side": "ask"
         },
         {
@@ -16831,22 +17543,14 @@
             "type": "change",
             "reason": "initial",
             "price": "430.00",
-            "delta": "23.16",
-            "remaining": "23.16",
+            "delta": "8.3",
+            "remaining": "8.3",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "431.00",
-            "delta": "100",
-            "remaining": "100",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "432.10",
             "delta": "100",
             "remaining": "100",
             "side": "ask"
@@ -16862,9 +17566,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "435.98",
-            "delta": "0.327227",
-            "remaining": "0.327227",
+            "price": "436.04",
+            "delta": "0.327466",
+            "remaining": "0.327466",
             "side": "ask"
         },
         {
@@ -16879,8 +17583,8 @@
             "type": "change",
             "reason": "initial",
             "price": "440.00",
-            "delta": "23.212153",
-            "remaining": "23.212153",
+            "delta": "17.212153",
+            "remaining": "17.212153",
             "side": "ask"
         },
         {
@@ -16902,9 +17606,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "443.30",
-            "delta": "0.324512",
-            "remaining": "0.324512",
+            "price": "443.36",
+            "delta": "0.32475",
+            "remaining": "0.32475",
             "side": "ask"
         },
         {
@@ -16975,16 +17679,16 @@
             "type": "change",
             "reason": "initial",
             "price": "450.00",
-            "delta": "357.164193",
-            "remaining": "357.164193",
+            "delta": "354.94197",
+            "remaining": "354.94197",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "450.75",
-            "delta": "0.32182",
-            "remaining": "0.32182",
+            "price": "450.81",
+            "delta": "0.322056",
+            "remaining": "0.322056",
             "side": "ask"
         },
         {
@@ -17006,9 +17710,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "458.32",
-            "delta": "0.319151",
-            "remaining": "0.319151",
+            "price": "458.39",
+            "delta": "0.319384",
+            "remaining": "0.319384",
             "side": "ask"
         },
         {
@@ -17046,6 +17750,14 @@
         {
             "type": "change",
             "reason": "initial",
+            "price": "463.33",
+            "delta": "550",
+            "remaining": "550",
+            "side": "ask"
+        },
+        {
+            "type": "change",
+            "reason": "initial",
             "price": "465.00",
             "delta": "5.337827",
             "remaining": "5.337827",
@@ -17054,9 +17766,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "466.02",
-            "delta": "0.316503",
-            "remaining": "0.316503",
+            "price": "466.09",
+            "delta": "0.316734",
+            "remaining": "0.316734",
             "side": "ask"
         },
         {
@@ -17078,9 +17790,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "473.85",
-            "delta": "0.313877",
-            "remaining": "0.313877",
+            "price": "473.92",
+            "delta": "0.314107",
+            "remaining": "0.314107",
             "side": "ask"
         },
         {
@@ -17102,14 +17814,6 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "477.33",
-            "delta": "39.33",
-            "remaining": "39.33",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "479.33",
             "delta": "22.9487",
             "remaining": "22.9487",
@@ -17119,8 +17823,8 @@
             "type": "change",
             "reason": "initial",
             "price": "480.00",
-            "delta": "42.367898",
-            "remaining": "42.367898",
+            "delta": "40.35",
+            "remaining": "40.35",
             "side": "ask"
         },
         {
@@ -17142,9 +17846,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "481.81",
-            "delta": "0.311274",
-            "remaining": "0.311274",
+            "price": "481.88",
+            "delta": "0.311501",
+            "remaining": "0.311501",
             "side": "ask"
         },
         {
@@ -17182,14 +17886,6 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "488.88",
-            "delta": "0.34",
-            "remaining": "0.34",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
             "price": "488.89",
             "delta": "50",
             "remaining": "50",
@@ -17206,9 +17902,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "489.91",
-            "delta": "0.308691",
-            "remaining": "0.308691",
+            "price": "489.97",
+            "delta": "0.308917",
+            "remaining": "0.308917",
             "side": "ask"
         },
         {
@@ -17262,17 +17958,17 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "498.14",
-            "delta": "0.306131",
-            "remaining": "0.306131",
+            "price": "498.21",
+            "delta": "0.306354",
+            "remaining": "0.306354",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
             "price": "499.00",
-            "delta": "73.747394",
-            "remaining": "73.747394",
+            "delta": "7.5",
+            "remaining": "7.5",
             "side": "ask"
         },
         {
@@ -17303,8 +17999,8 @@
             "type": "change",
             "reason": "initial",
             "price": "500.00",
-            "delta": "306.184604",
-            "remaining": "306.184604",
+            "delta": "306.189604",
+            "remaining": "306.189604",
             "side": "ask"
         },
         {
@@ -17318,9 +18014,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "506.51",
-            "delta": "0.303591",
-            "remaining": "0.303591",
+            "price": "506.58",
+            "delta": "0.303813",
+            "remaining": "0.303813",
             "side": "ask"
         },
         {
@@ -17366,9 +18062,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "515.02",
-            "delta": "0.301073",
-            "remaining": "0.301073",
+            "price": "515.09",
+            "delta": "0.301293",
+            "remaining": "0.301293",
             "side": "ask"
         },
         {
@@ -17390,17 +18086,17 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "523.67",
-            "delta": "0.298575",
-            "remaining": "0.298575",
+            "price": "523.69",
+            "delta": "2.5",
+            "remaining": "2.5",
             "side": "ask"
         },
         {
             "type": "change",
             "reason": "initial",
-            "price": "523.69",
-            "delta": "2.5",
-            "remaining": "2.5",
+            "price": "523.74",
+            "delta": "0.298793",
+            "remaining": "0.298793",
             "side": "ask"
         },
         {
@@ -17438,9 +18134,9 @@
         {
             "type": "change",
             "reason": "initial",
-            "price": "532.47",
-            "delta": "0.296098",
-            "remaining": "0.296098",
+            "price": "532.54",
+            "delta": "0.296315",
+            "remaining": "0.296315",
             "side": "ask"
         },
         {
@@ -17609,14 +18305,6 @@
             "price": "625.00",
             "delta": "250",
             "remaining": "250",
-            "side": "ask"
-        },
-        {
-            "type": "change",
-            "reason": "initial",
-            "price": "645.00",
-            "delta": "529.195",
-            "remaining": "529.195",
             "side": "ask"
         },
         {
